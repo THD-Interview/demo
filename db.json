@@ -1,4 +1,6 @@
 {
+"people": [
+  {
     "id": 1,
     "name": "Leanne Graham",
     "age": 27,
@@ -22,3 +24,5 @@
     "age": 33,
     "occupation": "Coach"
   }
+]
+}
