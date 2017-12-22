@@ -1,27 +1,27 @@
 {
 "people": [
   {
-    "id": 1,
+    "id": "1",
     "name": "Leanne Graham",
-    "age": 27,
+    "age": "27",
     "occupation": "Doctor"
   },
   {
-    "id": 2,
+    "id": "2",
     "name": "Bob Barnes",
-    "age": 15,
+    "age": "15",
     "occupation": "Student"
   },
   {
-    "id": 3,
+    "id": "3",
     "name": "Carol Samson",
-    "age": 46,
+    "age": "46",
     "occupation": "Instructor"
   },
   {
-    "id": 4,
+    "id": "4",
     "name": "John Johnson",
-    "age": 33,
+    "age": "33",
     "occupation": "Coach"
   }
 ]
