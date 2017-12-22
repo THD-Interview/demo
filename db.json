@@ -1,14 +1,26 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": 1,
+    "name": "Leanne Graham",
+    "age": 27,
+    "occupation": "Doctor"
+  },
+  {
+    "id": 2,
+    "name": "Bob Barnes",
+    "age": 15,
+    "occupation": "Student"
+  },
+  {
+    "id": 3,
+    "name": "Carol Samson",
+    "age": 46,
+    "occupation": "Instructor"
+  },
+  {
+    "id": 4,
+    "name": "John Johnson",
+    "age": 33,
+    "occupation": "Coach"
   }
-}
+]
