@@ -11,28 +11,28 @@
     "id": "2",
     "name": "Bob Barnes",
     "age": "41",
-    "occupation": "DBA",
+    "title": "DBA",
     "department": "IT"
   },
   {
     "id": "3",
     "name": "Carol Samson",
     "age": "46",
-    "occupation": "Accountant",
+    "title": "Accountant",
     "deparment": "Accounting"
   },
   {
     "id": "4",
     "name": "John Johnson",
     "age": "33",
-    "occupation": "Senior Software Developer",
+    "title": "Senior Software Developer",
     "department": "IT"
   },
     {
     "id": "5",
     "name": "Mary Highland",
     "age": "26",
-    "occupation": "Customer Service Representative",
+    "title": "Customer Service Representative",
     "department": "Customer Service Support"
   }
 ]
